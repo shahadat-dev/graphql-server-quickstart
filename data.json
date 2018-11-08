@@ -1,0 +1,29 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Shahadat Hossain",
+      "email": "shahadat.cseru@gmail.com",
+      "age": 30
+    },
+    {
+      "id": "2",
+      "name": "Lalon Fakir",
+      "email": "lalon@gmail.com",
+      "age": 114
+    },
+    {
+      "id": "3",
+      "name": "Kazi Nazrul Islam",
+      "email": "kazi.nazrul@gmail.com",
+      "age": 70
+    },
+    {
+      "id": "4",
+      "name": "S M Sultan",
+      "email": "sm.sultan@gmail.com",
+      "age": 60
+    },
+    { "id": "5", "name": "Jibonando Das", "email": "das@gmail.com", "age": 50 }
+  ]
+}
